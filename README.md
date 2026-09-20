@@ -2,7 +2,7 @@
 
 An agentic AI system that logs, analyzes, and gives personalized motivational feedback on daily habits — built using a multi-agent architecture (CrewAI), powered by Google Gemini, and deployed as a public web app.
 
-**🔗 Live App:** [Add your Render URL here]
+**🔗 Live App:** https://habit-agent.onrender.com/
 
 ---
 
